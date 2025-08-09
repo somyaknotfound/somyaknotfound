@@ -11,7 +11,8 @@
 <p align="left">
 <a href="https://instagram.com/somyuhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyuhk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/somyakmohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somyakmohanta" height="30" width="40" /></a>
-  <img width="1143" height="933" alt="image" src="https://github.com/user-attachments/assets/7b03b674-9c8a-4662-b887-ba714b39d3cc" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6b14a76-0038-4bcf-8a51-2a8f20cc011b" />
+
 
 </p>
 
