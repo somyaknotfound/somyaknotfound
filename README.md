@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/view/cute-wallpaper-aesthetic-art-pixel-art-gif-1818569305436571082"  />
+![cute-wallpaper](https://github.com/user-attachments/assets/2ec9287f-bb20-4e1a-8f8b-edd58a82332a)
 
 ###
 
