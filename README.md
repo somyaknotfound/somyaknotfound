@@ -1,54 +1,84 @@
-<h1 align="center">Somyak Here</h1>
-<h3 align="center">JavaScript Developer | MERN Stack Enthusiast| Exploring React & Node.js</h3>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somyaknotfound&label=Profile%20views&color=0e75b6&style=flat" alt="somyaknotfound" /> </p>
+<h2 align="left">Welcome Aboard Somyak this side</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyaknotfound" alt="somyaknotfound" /></a> </p>
+###
 
-- 📫 How to reach me **somyakmohanta@gmail.com**
+<p align="left">I Post some stuff that i learn or make here<br>Hope you enjoy what i build</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/somyuhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyuhk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/somyakmohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somyakmohanta" height="30" width="40" /></a>
- <img width="400" alt="image" src="https://github.com/user-attachments/assets/f6b14a76-0038-4bcf-8a51-2a8f20cc011b" />
-</p>
+###
 
-<div align="center">
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/f5aa6132-1cb0-43e4-8b4a-28b7ed14ca57" alt="c" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/a3f1288b-11a3-4ec8-9da5-0deffe9dfaab" alt="cplusplus" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/73594022-30d1-4e29-92b2-bc9079358ffe" alt="html5" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/a4536e2a-74cc-4593-9390-db6690018fac" alt="javascript" width="50" height="50"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/20aa3ceb-8d3d-49f8-9ea9-7303bdb3430f" alt="linux" width="50" height="50"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/62675a39-3a84-49ee-9928-22f26f1fdf2f" alt="mongodb" width="50" height="50"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/a70f59c7-5ea5-4677-8cb1-2bf06aa5ba63" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://github.com/user-attachments/assets/5bcc8a08-0e6e-42c1-b328-99c4a88b839b" alt="python" width="50" height="50"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-    </a>
-  </p>
+<img align="right" height="200" src="https://tenor.com/view/cute-wallpaper-aesthetic-art-pixel-art-gif-1818569305436571082"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=somyaknotfound&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaknotfound&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&custom_title=Essentials" height="56" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somyaknotfound&theme=tokyo-night&radius=12&area=true&hide_title=true&hide_border=true" height="210" alt="activity-graph graph"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyaknotfound&show_icons=true&locale=en&layout=compact" alt="somyaknotfound" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somyaknotfound&show_icons=true&locale=en" alt="somyaknotfound" /></p>
+<img align="right" height="148" src="https://tenor.com/view/pixel-art-computer-rain-rainy-day-raining-gif-5289544000101100841"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somyaknotfound&" alt="somyaknotfound" /></p>
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:somyaknotfound?theme=gelbooru&padding=5&offset=14&scale=1.6&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somyaknotfound/somyaknotfound/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somyaknotfound/somyaknotfound/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/somyaknotfound/somyaknotfound/output/pacman-contribution-graph.svg">
+</picture>
+
+###
